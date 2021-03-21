@@ -1,6 +1,8 @@
 # Zenty-Checker
 A minecraft stats checker, maybe a combo checker soon? 👀
 
+Please make sure that you install the latest version...
+
 In working...
 
 # Disclaimer:
