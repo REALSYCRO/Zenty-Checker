@@ -4,6 +4,14 @@ A minecraft stats checker, maybe a combo checker soon? 👀
 
 Please make sure that you install the latest version and the required libraries!
 
+# For Questions:
+
+💖Discord: Sycro#4833
+
+📫 Mail: zentygithub@gmx.de
+
+PS: Discord is faster xD
+
 
 
 In working...
