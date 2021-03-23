@@ -1,4 +1,4 @@
-# New Zenty Checker version has been released💖🎉
+# Zenty Checker v1.1 has been released💖🎉
 
 
 # About Zenty-Checker
