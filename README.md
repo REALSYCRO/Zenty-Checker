@@ -1,4 +1,7 @@
-# Zenty-Checker
+# New Zenty Checker version has been released💖🎉
+
+
+# About Zenty-Checker
 
 A minecraft stats checker, maybe a combo checker soon? 👀
 
