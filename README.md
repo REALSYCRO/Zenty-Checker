@@ -1,9 +1,9 @@
-# Zenty Checker v1.1 has been released💖🎉
+# Zenty Checker v1.1 has been released.
 
 
 # About Zenty-Checker
 
-A minecraft stats checker, maybe a combo checker soon? 👀
+A minecraft stats checker
 
 Please make sure that you install the latest version and the required libraries!
 
